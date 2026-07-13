@@ -23,4 +23,4 @@ FreshCart is an eCommerce application built using React, Tailwind CSS. It provid
 - React-slick
 
 ### For live demo please click the link below:
-<https://nadaa15.github.io/Fresh-Cart/>
+<https://nada-aymann.github.io/Fresh-Cart/>
